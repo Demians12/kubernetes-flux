@@ -2,7 +2,7 @@ kind: ClusterConfig
 apiVersion: eksctl.io/v1alpha5
 metadata:
   name: sand-cluster
-  version: "1.21"
+  version: "1.23"
   region: us-east-1
 availabilityZones:
   - us-east-1a
